@@ -1,0 +1,5 @@
+This is an implementation of a gap buffer written in C. I was going to use it 
+for a project (I still might) but am providing it for anyone else interested. 
+It's released under an MIT-style license.
+
+Copyright (c) 2009-2011 Hans Van Slooten
